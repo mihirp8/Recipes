@@ -1,0 +1,3 @@
+*.png #ignore all files with png extension
+receipts/ #ignore receipts directory
+
